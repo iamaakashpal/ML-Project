@@ -57,3 +57,21 @@ OR
 ```
 git commit -m "message"
 ```
+
+## To send version/changes to Github
+```
+git push origin main
+```
+
+
+## To check remote url
+```
+git remote -v
+```
+
+
+## To set CI/CD Pipeline in heroku we need 3 information
+
+1. HEROKO_EMAIL = aakashpal1198@gmail.com
+2. HEROKO_API_KEY = bb127345-658c-4124-a2c0-2c770db2fb59
+3. HEROKO_APP_NAME = mlregression0
